@@ -21,3 +21,8 @@ Frameworks: Flask/Django for backend, Streamlit for UI
 Dataset: Agricultural datasets with soil, climate, and crop yield data
 
 Deployment: FastAPI, AWS/GCP
+📌 Future Scope
+🔹 IoT integration for real-time soil monitoring
+🔹 Deep learning models for enhanced accuracy
+🔹 Mobile app for accessibility on the go
+🔹 Data visualization tools for better insights
